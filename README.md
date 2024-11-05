@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shashi Mishra,
+<h2>👋 Hi, I’m Shashi Mishra,</h2>
 <p>A passionate full stack application developer. I am having 8+ years of excellence in software development industry. Here I am writting down my skills set, Please take a look :</p>
 
 <h6 align="left">Programming Languages</h6>
@@ -567,17 +567,17 @@
  ###
 
 <h3 align="left">Projects</h3>
-<a href="https://upoer.org/" target="_blank">
-  <img width="260" alt="Screenshot 2024-11-05 at 1 35 02 PM" src="https://github.com/user-attachments/assets/fcd7a96c-3336-4f75-ba86-64124761e2cb" alt="upoer">
+<a href="https://play.google.com/store/apps/details?id=com.akati&hl=en" target="_blank">
+  <img width="260" alt="akati" src="https://github.com/user-attachments/assets/868fe577-49f3-4985-b0ee-96b51f293ad0" alt="Akati">
 </a> &nbsp; &nbsp; 
-<a href="https://www.bestintownpizza.com/home" target="_blank">
-  <img width="260" alt="Screenshot 2024-11-05 at 1 38 35 PM" src="https://github.com/user-attachments/assets/7ce6c2ae-28e1-4a4d-ba81-110bcd8976b0">
+<a href="https://play.google.com/store/apps/details?id=com.gamersafer_app_9342&hl=en" target="_blank">
+  <img width="260" alt="GamerSafer" src="https://github.com/user-attachments/assets/d0a1426f-5edc-44b7-9103-53ad49433c0e">
 </a>  &nbsp; &nbsp; 
-<a href="https://yourlandloans.com" target="_blank">
-  <img width="260" alt="Screenshot 2024-11-05 at 1 38 35 PM" src="https://github.com/user-attachments/assets/65ef4dd7-013d-4393-8914-b0a65b9d64ee">
+<a href="https://play.google.com/store/apps/details?id=com.shineanddrive.sd&hl=en" target="_blank">
+  <img width="260" alt="Shine And Drive" src="https://github.com/user-attachments/assets/36f0e5d2-ffc0-4ba9-86f6-f1408d5d89c8">
 </a> 
-<a href="https://www.3mindia.in" target="_blank">
-  <img width="260" alt="Screenshot 2024-11-05 at 1 42 14 PM" src="https://github.com/user-attachments/assets/5bc87f97-40f6-44bf-8280-82d58ffa2bf1">
+<a href="https://play.google.com/store/apps/details?id=com.bahubalitrade&hl=en" target="_blank">
+  <img width="260" alt="Bahubali Bullion" src="https://github.com/user-attachments/assets/d4016d0e-50bb-4586-a53d-2e4ff1ee067c">
 </a>  &nbsp; &nbsp; 
 
 ###
