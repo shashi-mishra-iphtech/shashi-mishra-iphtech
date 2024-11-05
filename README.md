@@ -345,6 +345,7 @@ Here are some of the key tools and technologies I work with:
 - **Languages**: JavaScript, TypeScript, Python, Java, C#
 - **Front-End Frameworks**: React.js, Angular, Vue.js
 - **Back-End Frameworks**: Node.js, Express.js, Spring Boot, .NET Core
+- **Mobile App Development**: ReactNative, Flutter
 - **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
 - **Version Control**: Git, GitHub, GitLab
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI
