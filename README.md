@@ -1,69 +1,12 @@
 <h2>👋 Hi, I’m Shashi Mishra,</h2>
-<p>A passionate full stack application developer. I am having 8+ years of excellence in software development industry. Here I am writting down my skills set, Please take a look :</p>
+<p>A passionate Full-Stack Application Developer with **8+ years of experience** in the software development industry. I specialize in designing, developing, and deploying high-quality web applications, working with both front-end and back-end technologies. Below is a summary of my skills and expertise.</p>
 
-<h6 align="left">Programming Languages</h6>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://golang.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-    alt="go"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="php"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
+---
 
-<br>
-<h6 align="left">Frontend Development</h6>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+## 🚀 Skills & Expertise
+
+### Front-End Development
+&nbsp; &nbsp;  &nbsp; <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
     alt="vuejs"
@@ -171,10 +114,16 @@
   />
 </a>
 &nbsp; &nbsp;
+<br />
 
-<br>
-<h6 align="left">Backend Development</h6>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+- **HTML5, CSS3, JavaScript**: Building well-structured, styled, and interactive web pages.
+- **React.js**: Building dynamic and reusable components for modern web applications.
+- **Angular**: Developing scalable single-page applications (SPAs) with Angular framework.
+- **Vue.js**: Implementing lightweight and flexible UI components with Vue.js.
+- **Responsive Design**: Ensuring mobile-friendly designs using **Bootstrap**, **Material-UI**, and custom CSS techniques.
+
+### Back-End Development
+&nbsp; &nbsp;  &nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
@@ -210,58 +159,16 @@
   />
 </a>
 &nbsp; &nbsp;
+<br />
 
-<br>
-<h6 align="left">Mobile App Development</h6>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-    alt="android"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-    alt="flutter"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-    alt="dart"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img
-    src="https://reactnative.dev/img/header_logo.svg"
-    alt="reactnative"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
-    alt="ionic"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
+- **Node.js**: Building fast and efficient server-side applications.
+- **Express.js**: Framework for creating robust and scalable server-side applications.
+- **Java****/****C# (.NET)**/****Python**: Expertise in back-end services, APIs, and microservices.
+- **RESTful APIs**: Designing efficient APIs for seamless front-end integration.
+- **GraphQL**: Modern query language for APIs with flexible data fetching.
 
-<br>
-<h6 align="left">Database</h6>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+### Database Management
+&nbsp; &nbsp;  &nbsp; <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
     alt="mariadb"
@@ -306,40 +213,14 @@
   />
 </a>
 &nbsp; &nbsp;
+<br />
 
-<br>
-<h6 align="left">Data Visualization</h6>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.chartjs.org/media/logo-title.svg"
-    alt="chartjs"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://d3js.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
-    alt="d3js"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-    alt="canvasjs"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
+- **SQL Databases**: Proficiency in **MySQL**, **PostgreSQL**, and **SQL Server** for relational data storage.
+- **NoSQL Databases**: Expertise in **MongoDB**, **Cassandra**, and **Firebase** for non-relational data storage.
+- **ORMs (Object-Relational Mapping)**: Familiar with **Sequelize**, **TypeORM**, and **Entity Framework** for simplifying database interactions.
 
-<br>
-<h6 align="left">Devops</h6>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+### DevOps & Deployment
+&nbsp; &nbsp;  &nbsp; <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
     alt="aws"
@@ -366,31 +247,15 @@
   />
 </a>
 &nbsp; &nbsp;
+<br />
 
-<br>
-<h6 align="left">Backend as a Service(BaaS)</h6>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="amplify"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
+- **Version Control**: Expert in using **Git** for source code management and collaboration via **GitHub**/**GitLab**.
+- **CI/CD Pipelines**: Setting up automated build and deployment processes with **Jenkins**, **GitLab CI**, and **GitHub Actions**.
+- **Cloud Platforms**: Experience deploying applications to **AWS**, **Azure**, and **Google Cloud**.
+- **Containers & Orchestration**: Familiar with **Docker** and **Kubernetes** for scalable application deployment.
 
-<br>
-<h6 align="left">Framework</h6>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+### Framework, I have worked with
+&nbsp; &nbsp;  &nbsp; <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.worldvectorlogo.com/logos/django.svg"
     alt="django"
@@ -436,137 +301,67 @@
 </a>
 &nbsp; &nbsp;
 
-<br>
-<h6 align="left">Testing</h6>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-    alt="cypress"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
 
-<br>
-<h6 align="left">Software</h6>
-<a
-  href="https://www.adobe.com/in/products/illustrator.html"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-    alt="illustrator"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-    alt="photoshop"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-    alt="sketch"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a
-  href="https://www.adobe.com/products/xd.html"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://adobexdplatform.com/favicon.png"
-    alt="xd"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"
-    alt="invision"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
+### Testing & Quality Assurance
+- **Unit Testing & TDD**: Writing unit tests using **Jest**, **Mocha**, and **Chai** for test-driven development.
+- **End-to-End Testing**: Implementing UI testing with **Cypress** and **Selenium**.
+- **Code Quality & Static Analysis**: Using tools like **ESLint**, **Prettier**, and **SonarQube** to maintain code quality.
 
-<br>
-<h6 align="left">Static Site Generators</h6>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-    alt="gatsby"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-    alt="nextjs"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-    alt="nuxtjs"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
+### Agile Methodologies & Team Collaboration
+- **Scrum** and **Kanban**: Working in Agile environments with regular sprint planning and retrospectives.
+- **Cross-Functional Collaboration**: Collaborating with product owners, designers, and QA engineers to deliver top-quality software.
+- **Mentoring & Knowledge Sharing**: Providing mentorship to junior developers and fostering a collaborative team culture.
 
-<br>
-<h6 align="left">Game Engines</h6>
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-    alt="unity"
-    width="40"
-    height="40"
-  />
-</a>
-&nbsp; &nbsp;
+### Security Best Practices
+- **OWASP Security Principles**: Implementing defenses against security vulnerabilities like **SQL injection**, **XSS**, and **CSRF**.
+- **Authentication & Authorization**: Using **OAuth**, **JWT**, and **Passport.js** to ensure secure user authentication.
 
- ###
+---
 
-<h3 align="left">Projects</h3>
+## 💼 Experience
+
+Over the course of my career, I have worked on a variety of projects spanning different industries, including e-commerce, enterprise applications, and real-time data processing. I have a strong track record of delivering applications that are not only functional but also performant, secure, and maintainable.
+
+---
+
+## 🌱 Continuous Learning
+
+I am a strong believer in continuous learning and constantly keeping up with the latest trends and advancements in the software development world. Whether it's exploring new frameworks, diving deeper into cloud technologies, or mastering best practices in DevOps, I'm always striving to improve my skills and knowledge.
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to reach out if you'd like to collaborate or just chat about technology! Here's how you can contact me:
+
+- **Email:** [shashi.iphtech2@gmail.com](mailto:your.email@example.com)
+
+---
+
+## 🔧 Tools & Technologies
+
+Here are some of the key tools and technologies I work with:
+
+- **Languages**: JavaScript, TypeScript, Python, Java, C#
+- **Front-End Frameworks**: React.js, Angular, Vue.js
+- **Back-End Frameworks**: Node.js, Express.js, Spring Boot, .NET Core
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
+- **Cloud Platforms**: AWS, Google Cloud, Azure
+- **Containerization**: Docker, Kubernetes
+- **Testing**: Jest, Mocha, Cypress, Selenium
+- **Others**: Nginx, Redis, Elasticsearch, RabbitMQ, Terraform
+
+---
+
+## 📚 Blog & Resources
+
+I occasionally write about full-stack development, cloud computing, and DevOps practices. Feel free to check out my blog for more insights and tutorials.
+
+---
+
+### Projects
 <a href="https://play.google.com/store/apps/details?id=com.akati&hl=en" target="_blank">
   <img width="260" alt="akati" src="https://github.com/user-attachments/assets/868fe577-49f3-4985-b0ee-96b51f293ad0" alt="Akati">
 </a> &nbsp; &nbsp; 
@@ -580,4 +375,6 @@
   <img width="260" alt="Bahubali Bullion" src="https://github.com/user-attachments/assets/d4016d0e-50bb-4586-a53d-2e4ff1ee067c">
 </a>  &nbsp; &nbsp; 
 
-###
+---
+
+Thank you for visiting my GitHub profile! I’m excited to connect and collaborate on exciting projects. 🚀
